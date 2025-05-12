@@ -1,0 +1,25 @@
+{
+  "app": {
+    "title": "Tuấn Vĩnh Vip Sedan",
+    "textColor": "black",
+    "leftButton": "none",
+    "statusBar": "transparent",
+    "selfControlLoading": false,
+    "hideAndroidBottomNavigationBar": false,
+    "hideIOSSafeAreaBottom": false,
+    "actionBarHidden": true,
+    "headerColor": "",
+    "statusBarColor": "",
+    "textAlign": "left"
+  },
+  "listCSS": [],
+  "listSyncJS": [],
+  "listAsyncJS": [],
+  "template": {
+    "name": "zaui-coffee",
+    "primaryColor": "#216803",
+    "prefixCurrencySymbol": false,
+    "currencySymbol": "đ",
+    "headerLogo": "https://photo-logo-mapps.zadn.vn/1ea51418b25d5b03024c.jpg"
+  }
+}
